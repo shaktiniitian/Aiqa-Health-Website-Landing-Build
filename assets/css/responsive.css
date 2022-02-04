@@ -145,7 +145,7 @@
         display:none;
     }
     .heads {
-        height: auto;
+        height: auto !important;
         padding-top: 30px;
         position: absolute;
         width: 100%;
